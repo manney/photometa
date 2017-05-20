@@ -5,11 +5,10 @@ A quick and dirty script to read the metadata in photos, get the creation date a
 **Requires:**
 
 * Python 2
-
 * exifread <https://github.com/ianare/exif-py>
 
 From the command line, `photometa.py fromdir todir`
 
 * `fromdir` is the directory to read the photos from
-
 * `todir` is the base directory to copy the photos in to
+
